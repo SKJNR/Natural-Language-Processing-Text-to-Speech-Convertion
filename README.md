@@ -21,4 +21,6 @@ Some TTS tools also have a technology called optical character recognition (OCR)
   https://medium.com/sciforce/text-to-speech-synthesis-an-overview-641c18fcd35f
   
   https://en.wikipedia.org/wiki/Speech_synthesis <br>
-  https://cloud.google.com/text-to-speech
+  https://cloud.google.com/text-to-speech  <br>
+  https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html  <br>
+  https://www.readingrockets.org/article/text-speech-tts
