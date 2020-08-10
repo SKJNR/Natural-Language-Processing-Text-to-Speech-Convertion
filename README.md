@@ -14,6 +14,11 @@ Some TTS tools also have a technology called optical character recognition (OCR)
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsDtqsBnMfzkEsAtOxz2AKO3Rj7jgWm-PgzA&usqp=CAU)
    ## Requirements :
-  Need to install packages gTTS and gTTS newspaper3k using pip command <br>
-  ``
+  Need to install packages gTTS and gTTS newspaper3k using pip command <br>  
+  `!pip install nltk gTTS newspaper3k` <br>
+  `!pip install gTTS `
+  ## References :
+  https://medium.com/sciforce/text-to-speech-synthesis-an-overview-641c18fcd35f
   
+  https://en.wikipedia.org/wiki/Speech_synthesis <br>
+  https://cloud.google.com/text-to-speech
