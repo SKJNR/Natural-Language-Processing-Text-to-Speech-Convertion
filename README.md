@@ -13,6 +13,8 @@ Many TTS tools highlight words as they are read aloud. This allows kids to see t
 Some TTS tools also have a technology called optical character recognition (OCR). OCR allows TTS tools to read text aloud from images. For example, your child could take a photo of a street sign and have the words on the sign turned into audio.
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsDtqsBnMfzkEsAtOxz2AKO3Rj7jgWm-PgzA&usqp=CAU)
+
+
    ## Requirements :
   Need to install packages gTTS and gTTS newspaper3k using pip command <br>  
   `!pip install nltk gTTS newspaper3k` <br>
